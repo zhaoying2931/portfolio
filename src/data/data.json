@@ -1,0 +1,45 @@
+{
+    "projects": [{
+        "publisher": "Publisher 1",
+        "link": "https://journalism.berkeley.edu",
+        "image": "images/placeholder-1.jpg",
+        "slug": "project1",
+        "headline": "Project 1",
+        "feature": true
+    }, {
+        "publisher": "Publisher 2",
+        "link": "https://journalism.berkeley.edu",
+        "image": "images/placeholder.jpg",
+        "slug": "project2",
+        "headline": "Project 2",
+        "feature": true
+    }, {
+        "publisher": "Publisher 3",
+        "link": "https://journalism.berkeley.edu",
+        "image": "images/placeholder.jpg",
+        "slug": "project3",
+        "headline": "Project 3",
+        "feature": false
+    }, {
+        "publisher": "Publisher 4",
+        "link": "https://journalism.berkeley.edu",
+        "image": "images/placeholder-1.jpg",
+        "slug": "project4",
+        "headline": "Project 4",
+        "feature": false
+    }, {
+        "publisher": "Publisher 5",
+        "link": "https://journalism.berkeley.edu",
+        "image": "images/placeholder-1.jpg",
+        "slug": "project5",
+        "headline": "Project 5",
+        "feature": true
+    }, {
+        "publisher": "Publisher 6",
+        "link": "https://journalism.berkeley.edu",
+        "image": "images/placeholder.jpg",
+        "slug": "project6",
+        "headline": "Project 6",
+        "feature": true
+    }]
+}
